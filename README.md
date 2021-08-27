@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧑‍💻 Experiences:
+### My Experiences:
 - 🧑‍[nets](http://nets.tj)
 - 🧑‍[alif](http://alif.tj)
 
