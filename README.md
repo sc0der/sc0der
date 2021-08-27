@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧑‍💻 working on [dono](http://alif.tj)
+- 🧑‍💻 Experiences:
+-     [NETS](http://nets.tj)
+-     [Alif Bank](http://alif.tj)
 
-### 📱 Connect with me:
+
+### 📱 Contact with me:
 
 [<img align="left" alt="@sc0der | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/sc0der/)
 [<img align="left" alt="@_sc0der | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/_sc0der)
