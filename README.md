@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Experiences:
-- 🧑‍[Network Solutions](http://nets.tj)
-- 🧑‍[Alif Bank](http://alif.tj)
+- 👨🏻‍💻[Network Solutions](http://nets.tj)
+- 👨🏻‍💻[Alif Bank](http://alif.tj)
 
 
 ### 📱 Contact with me:
