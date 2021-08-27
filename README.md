@@ -27,23 +27,41 @@ Here are some ideas to get you started:
 <br />
 
 ### 🛠 Language and Tools:
+
+<img align="left" alt="python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="flask" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
+<img align="left" alt="django" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" />
+
+<img align="left" alt="dart" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"/>
+<img align="left" alt="flutter" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
+
+<img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Angular" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="Vuejs" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" />
+
+
+<img align="left" alt="mysql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="postgresql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+
 <img align="left" alt="redis" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" />
+<img align="left" alt="docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
+<img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
+<img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+
+
 <img align="left" alt="jquery" height="24px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <img align="left" alt="sass" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
 <img align="left" alt="less" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"/>
-<img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="django" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" />
-<img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
-<img align="left" alt="flask" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
-<img align="left" alt="flutter" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
+
+<img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="gimp" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"/>
 <img align="left" alt="gulp" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"/>
-<img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
+
 
 <br />
 
