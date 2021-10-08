@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My Experiences:
+### Experiences:
 - 👨🏻‍💻[Network Solutions](http://nets.tj)
 - 👨🏻‍💻[Alif Bank](http://alif.tj)
 
