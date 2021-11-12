@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="@sc0der | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/sc0der/)
 [<img align="left" alt="@_sc0der | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/_sc0der)
 
-<br />
 ![alt text](https://github.com/sc0der/python-ansi/blob/main/ansi.png)
+
+<br />
 ### 🛠 Language and Tools:
 
 <img align="left" alt="python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
