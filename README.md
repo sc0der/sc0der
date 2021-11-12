@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 <img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
 
 
-<img align="left" alt="jquery" height="24px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" alt="HTML" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<img align="left" alt="sass" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-<img align="left" alt="less" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"/>
+<img align="left" alt="jquery" height="24px" src="https://github.com/sc0der/python-ansi/blob/main/ansi.png" />
 
 <img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
