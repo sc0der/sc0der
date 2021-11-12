@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 - 👨🏻‍💻[Network Solutions](http://nets.tj)
 - 👨🏻‍💻[Alif Bank](http://alif.tj)
 
-
 ### 📱 Contact with me:
 
 [<img align="left" alt="@sc0der | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/sc0der/)
 [<img align="left" alt="@_sc0der | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/_sc0der)
 
 <br />
-
+![alt text](https://github.com/sc0der/python-ansi/blob/main/ansi.png)
 ### 🛠 Language and Tools:
 
 <img align="left" alt="python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
@@ -49,9 +48,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
 <img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
 <img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
-
-
-<img align="left" alt="jquery" height="24px" src="https://github.com/sc0der/python-ansi/blob/main/ansi.png" />
 
 <img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
