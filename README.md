@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br />
 ### 🛠 Language and Tools:
-
+<br />
 <img align="left" alt="python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="flask" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
 <img align="left" alt="django" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" />
@@ -49,12 +49,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
 <img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
 <img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
-
-<img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
-<img align="left" alt="gimp" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"/>
-<img align="left" alt="gulp" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"/>
-
 
 <br />
 
