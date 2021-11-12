@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 <img align="left" alt="python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="flask" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
-<img align="left" alt="django" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" />
+<img align="left" alt="django" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 
 <img align="left" alt="dart" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"/>
 <img align="left" alt="flutter" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
