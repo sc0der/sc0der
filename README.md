@@ -1,5 +1,3 @@
-![alt text](https://github.com/sc0der/python-ansi/blob/main/ansi.png)
-
 ### Hi there 👋
 I am a FullStack developer
 <!--
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Angular" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="Vuejs" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" />
+<img align="left" alt="Vuejs" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />
 
 
 <img align="left" alt="mysql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
