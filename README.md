@@ -50,6 +50,18 @@ Here are some ideas to get you started:
 
 <br />
 
+```yaml
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+```
+
 ### Statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sc0der&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true)
