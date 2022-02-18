@@ -49,15 +49,6 @@ Here are some ideas to get you started:
 <img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
 
 <br />
-<!--header-->
-<table>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-  </details>
-    </td>
-  </tr>
-</table>
-<!--/header-->
 
 ### Statistics
 
