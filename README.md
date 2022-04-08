@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 📱 Contact with me:
 
 [<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app--v3.png 2x" />](https://t.me/sc0der/)
-[<img align="left" alt="@_sc0der | Twitter" width="22px" src="https://img.icons8.com/color/2x/twitter.png 2x" />](https://twitter.com/_sc0der/)
+[<img align="left" alt="@sc0der | Twitter" width="22px" src="https://img.icons8.com/color/2x/twitter.png 2x" />](https://twitter.com/_sc0der/)
 
 ### Statistics
 
