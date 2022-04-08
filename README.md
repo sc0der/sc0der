@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app--v3.png 2x" />](https://t.me/sc0der/)
 [<img align="left" alt="@_sc0der | Twitter" width="22px" src="https://img.icons8.com/color/2x/twitter.png 2x" />](https://twitter.com/_sc0der/)
 
-</br>
 ### Statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sc0der&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true)
