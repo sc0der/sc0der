@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Experiences:
 - 👨🏻‍💻[Network Solutions](http://nets.tj)
-- 👨🏻‍💻[Alif Bank](http://alif.tj)
+- 👨🏻‍💻[Alif Capital](https://www.alif.holdings)
 
 ### 📱 Contact with me:
 
