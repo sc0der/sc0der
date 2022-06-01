@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a FullStack developer
+I am seriously Sirius :)
 <!--
 **sc0der/sc0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
