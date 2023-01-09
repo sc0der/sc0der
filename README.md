@@ -6,9 +6,9 @@ I am seriously Sirius :)
 
 ### 📱 Contact with me:
 
-[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app--v3.png 2x" />](https://t.me/sc0der/)
-[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/linkedin-circled--v2.png 2x" />](https://www.linkedin.com/in/sirius-sufiew-553298160/)
-[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/twitter-circled--v5.png 2x" />](https://twitter.com/_sc0der/)
+[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app--v3.png" />](https://t.me/sc0der/)
+[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/linkedin-circled--v2.png" />](https://www.linkedin.com/in/sirius-sufiew-553298160/)
+[<img align="left" alt="@sc0der | Telegram" width="22px" src="https://img.icons8.com/color/2x/twitter-circled--v5.png" />](https://twitter.com/_sc0der/)
 
 ### Statistics
 
