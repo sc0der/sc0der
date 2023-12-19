@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am seriously Sirius :)
+Ajji Majji la Tarajji...
 ### Experiences:
 - 👨🏻‍💻[Network Solutions](http://nets.tj)
 - 👨🏻‍💻[Alif Capital](https://www.alif.holdings)
